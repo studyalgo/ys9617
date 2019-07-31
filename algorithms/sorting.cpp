@@ -90,11 +90,44 @@ void quickSort(int arr[], int l, int r){
     }
 }
 
+void heapify(int arr[], int n) {
+    for (int i = 1; i < n; ++i){
+        for (int c = i; c > 0;) {
+            int r = (c-1)/2;
+            if (arr[r] < arr[c]) swap(arr[r], arr[c]);
+
+            c = r;
+        }
+    }
+}
+
+void heapSort(int arr[], int n) {
+    for (int i = n; i > 1; --i){
+        heapify(arr, i);
+        swap(arr[0], arr[i-1]);
+    }
+}
+
+// suppose n is max
+void countSort(int arr[], int n) {
+    int *tmp = new int[n+1];
+    for (int i = 0; i <= n; ++i) tmp[i] = 0;
+
+    for (int i = 0; i < n; ++i) tmp[arr[i]]++;
+    
+    for (int i = 0, k = 0; i <= n; ++i) {
+        if (tmp[i] != 0) {
+            for (int j = 0; j < tmp[i]; ++j) arr[k++] = i;
+        }
+    }
+
+    delete[] tmp;
+}
 
 int main() {
     int arr[] = { 0, 4, 3, 5, 7, 8, 9, 1, 2, 6 };
 
-    quickSort(arr, 0, 9);
+    countSort(arr, 10);
 
     printArr(arr, 10);
 
