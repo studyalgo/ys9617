@@ -10,8 +10,8 @@
 - [소트인사이드(1427)](https://www.acmicpc.net/problem/1427) / 
   [소스(C++)](./docs/1427)
 
-- [시리얼번호(1432)](https://www.acmicpc.net/problem/1431) / 
-  [소스(C++)](./docs/1432)
+- [시리얼번호(1431)](https://www.acmicpc.net/problem/1431) / 
+  [소스(C++)](./docs/1431)
 
 - [수 정렬하기 3(10989)](https://www.acmicpc.net/problem/10989) / 
   [소스(C++)](./docs/10989)
@@ -50,7 +50,7 @@
   [소스(C++)](./docs/1966)
 
 - [홍준이와 울타리(2905)](https://www.acmicpc.net/problem/2905) /
-  [소스(C++)](./docs/2905)
+  소스(C++)
 
 - [구간 합 구하기(2042)](https://www.acmicpc.net/problem/2042) /
   [소스(C++)](./docs/2042)
