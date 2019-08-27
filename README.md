@@ -59,7 +59,7 @@
   [소스(C++)](./docs/10868)
 
 - [최솟값과 최댓값(2357)](https://www.acmicpc.net/problem/2357) /
-  소스(C++)
+  [소스(C++)](./docs/2357)
 
 - [전깃줄(2565)](https://www.acmicpc.net/problem/2565) /
   소스(C++)
