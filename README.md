@@ -62,7 +62,7 @@
   [소스(C++)](./docs/2357)
 
 - [전깃줄(2565)](https://www.acmicpc.net/problem/2565) /
-  소스(C++)
+  [소스(C++)](./docs/2565)
 
 - [구간 합 구하기 3(11658)](https://www.acmicpc.net/problem/11658) /
   [소스(C++)](./docs/11658)
