@@ -66,3 +66,16 @@
 
 - [구간 합 구하기 3(11658)](https://www.acmicpc.net/problem/11658) /
   [소스(C++)](./docs/11658)
+
+
+- [가장 긴 증가하는 부분 수열(11053)](https://www.acmicpc.net/problem/11053) /
+  [소스(C++)](./docs/11053)
+
+- [가장 긴 증가하는 부분 수열2(12015)](https://www.acmicpc.net/problem/12015) /
+  [소스(C++)](./docs/12015)
+
+- [가장 긴 증가하는 부분 수열3(12738)](https://www.acmicpc.net/problem/12738) /
+  [소스(C++)](./docs/12738)
+
+- [가장 긴 증가하는 부분 수열4(14002)](https://www.acmicpc.net/problem/14002) /
+  [소스(C++)](./docs/14002)
