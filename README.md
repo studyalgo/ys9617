@@ -79,3 +79,6 @@
 
 - [가장 긴 증가하는 부분 수열4(14002)](https://www.acmicpc.net/problem/14002) /
   [소스(C++)](./docs/14002)
+
+  - [전깃줄2(2568)](https://www.acmicpc.net/problem/2568) /
+  [소스(C++)](./docs/2568)
