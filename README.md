@@ -81,3 +81,8 @@
 
 27. [전깃줄2(2568)](https://www.acmicpc.net/problem/2568) /
   [소스(C++)](./docs/2568)
+
+28. [꼬인 전깃줄(1365)](https://www.acmicpc.net/problem/1365) / 
+  [소스(C++)](./docs/1365)
+
+
