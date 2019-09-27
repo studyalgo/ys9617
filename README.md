@@ -85,4 +85,5 @@
 28. [꼬인 전깃줄(1365)](https://www.acmicpc.net/problem/1365) / 
   [소스(C++)](./docs/1365)
 
-
+29. [가장 긴 증가하는 부분 수열5(14003)](https://www.acmicpc.net/problem/14003) /
+  [소스(C++)](./docs/14003)
