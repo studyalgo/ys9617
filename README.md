@@ -87,3 +87,6 @@
 
 29. [가장 긴 증가하는 부분 수열5(14003)](https://www.acmicpc.net/problem/14003) /
   [소스(C++)](./docs/14003)
+
+21. [LCS(9251)](https://www.acmicpc.net/problem/9251) /
+  [소스(C++)](./docs/9251_lcs.cpp)
