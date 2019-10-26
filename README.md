@@ -98,6 +98,6 @@
 ## 프로그래머스 알고리즘 문제
 1. [주식가격(lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) / [소스(C++)](./docs/programmers/stock_price.cpp)
 
-2. [다리를 지나는 트럭(lv2))](https://programmers.co.kr/learn/courses/30/lessons/42583) / [소스(C++)](./docs/programmers/stock_price.cpp)
+2. [다리를 지나는 트럭(lv2))](https://programmers.co.kr/learn/courses/30/lessons/42583) / [소스(C++)](./docs/programmers/road_truck.cpp)
 
 3. [기능개발(lv2))](https://programmers.co.kr/learn/courses/30/lessons/42586) / [소스(C++)](./docs/programmers/dev_func.cpp)
