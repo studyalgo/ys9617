@@ -1,7 +1,9 @@
 #include <vector>
+#include <stack>
 
 using namespace std;
 
+// O(N^2)
 vector<int> solution(vector<int> prices) {
     vector<int> answer(prices.size());
     
@@ -14,6 +16,26 @@ vector<int> solution(vector<int> prices) {
         }
         
         answer[i] = cnt;
+    }
+    
+    return answer;
+}
+
+// O(N)
+vector<int> solution2(vector<int> prices) {
+    vector<int> answer(prices.size());
+    
+    stack<int> stk;
+    stk.push(prices.size()-1);
+    
+    for (int i = prices.size()-2; i >= 0; --i) {
+        while (!stk.empty() && prices[stk.top()] >= prices[i]) {
+            stk.pop();
+        }
+        
+        answer[i] = stk.empty() ? prices.size()-i-1 : stk.top()-i;
+        
+        stk.push(i);
     }
     
     return answer;
