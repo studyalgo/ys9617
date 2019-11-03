@@ -106,3 +106,6 @@
 
 5. [단어 변환(lv3))](https://programmers.co.kr/learn/courses/30/lessons/43163) / [cpp](./docs/programmers/word_converting.cpp)
 
+6. [여행 경로(lv3))](https://programmers.co.kr/learn/courses/30/lessons/43164) / [cpp](./docs/programmers/travel_route.cpp)
+
+
