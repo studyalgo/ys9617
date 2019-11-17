@@ -108,4 +108,6 @@
 
 6. [여행 경로(lv3))](https://programmers.co.kr/learn/courses/30/lessons/43164) / [cpp](./docs/programmers/travel_route.cpp)
 
+7. [가장 먼 노드(lv3))](https://programmers.co.kr/learn/courses/30/lessons/49189) / [cpp](./docs/programmers/furthest_node.cpp)
+
 
