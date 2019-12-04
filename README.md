@@ -98,18 +98,22 @@
 ## 프로그래머스 알고리즘 문제
 1. [주식가격(lv2)](https://programmers.co.kr/learn/courses/30/lessons/42584) / [소스(C++)](./docs/programmers/stock_price.cpp)
 
-2. [다리를 지나는 트럭(lv2))](https://programmers.co.kr/learn/courses/30/lessons/42583) / [소스(C++)](./docs/programmers/road_truck.cpp)
+2. [다리를 지나는 트럭(lv2)](https://programmers.co.kr/learn/courses/30/lessons/42583) / [소스(C++)](./docs/programmers/road_truck.cpp)
 
-3. [기능개발(lv2))](https://programmers.co.kr/learn/courses/30/lessons/42586) / [소스(C++)](./docs/programmers/dev_func.cpp)
+3. [기능개발(lv2)](https://programmers.co.kr/learn/courses/30/lessons/42586) / [소스(C++)](./docs/programmers/dev_func.cpp)
 
-4. [네트워크(lv3))](https://programmers.co.kr/learn/courses/30/lessons/43162) / [소스(C++)](./docs/programmers/network.cpp)
+4. [네트워크(lv3)](https://programmers.co.kr/learn/courses/30/lessons/43162) / [소스(C++)](./docs/programmers/network.cpp)
 
-5. [단어 변환(lv3))](https://programmers.co.kr/learn/courses/30/lessons/43163) / [cpp](./docs/programmers/word_converting.cpp)
+5. [단어 변환(lv3)](https://programmers.co.kr/learn/courses/30/lessons/43163) / [cpp](./docs/programmers/word_converting.cpp)
 
-6. [여행 경로(lv3))](https://programmers.co.kr/learn/courses/30/lessons/43164) / [cpp](./docs/programmers/travel_route.cpp)
+6. [여행 경로(lv3)](https://programmers.co.kr/learn/courses/30/lessons/43164) / [cpp](./docs/programmers/travel_route.cpp)
 
-7. [가장 먼 노드(lv3))](https://programmers.co.kr/learn/courses/30/lessons/49189) / [cpp](./docs/programmers/furthest_node.cpp)
+7. [가장 먼 노드(lv3)](https://programmers.co.kr/learn/courses/30/lessons/49189) / [cpp](./docs/programmers/furthest_node.cpp)
 
-8. [순위(lv3))](https://programmers.co.kr/learn/courses/30/lessons/49191) / [cpp](./docs/programmers/ranking.cpp)
+8. [순위(lv3)](https://programmers.co.kr/learn/courses/30/lessons/49191) / [cpp](./docs/programmers/ranking.cpp)
 
+9. [예산(lv3)](https://programmers.co.kr/learn/courses/30/lessons/43237) / [cpp](./docs/programmers/budget.cpp)
 
+10. [위장(lv2)](https://programmers.co.kr/learn/courses/30/lessons/42578) / [cpp](./docs/programmers/camouflage.cpp)
+
+11. [베스트앨범(lv3)](https://programmers.co.kr/learn/courses/30/lessons/42579) / [cpp](./docs/programmers/bestalbum.cpp)
